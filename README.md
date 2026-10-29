@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Font+Manager-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Typeface Free Installer** — Typeface is a macOS font manager with a beautiful, photography-inspired browsing interface. Works without internet access, no account required. Full offline installation.
+**💻 Typeface Free Installer** — Typeface is a premium macOS font manager for discovering, organizing, and previewing fonts. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About Typeface
 
-Typeface is a macOS font manager with a beautiful, photography-inspired browsing interface. It provides smart collections, custom tags, font comparison view, Google Fonts sync, and Adobe Creative Cloud integration for professional font workflow management.
+Typeface is a premium macOS font manager for discovering, organizing, and previewing fonts. Browse your installed fonts with live text previews, tag and organize fonts into collections, activate and deactivate fonts to keep your system clean, and find fonts by visual similarity. Typeface's beautiful interface makes font management an enjoyable part of the design workflow.
 
 ---
 
 ## ❌ Problem: Typeface is hard to access
 
-- **macOS Only** — No Windows or Linux version
-- **Paid License** — Requires purchase from Mac App Store
-- **Niche Audience** — Most useful for designers with large font collections
-- **No Activation for All Apps** — Some apps require system font installation for compatibility
+- **macOS Only** — No Windows version
+- **Commercial License** — Paid application
+- **Font Activation** — Activating fonts still requires manual OS font installation in some cases
+- **Collection Sync** — Font collection sync across Macs requires manual export/import
 
 ---
 
@@ -121,7 +121,7 @@ Typeface is a macOS font manager with a beautiful, photography-inspired browsing
 
 ---
 
-**Typeface Free Installer** — Typeface is a macOS font manager with a beautiful, photography-inspired browsing interface. Install without internet connection today!
+**Typeface Free Installer** — Typeface is a premium macOS font manager for discovering, organizing, and previewing fonts. Install without internet connection today!
 
 <div align="center">
 
